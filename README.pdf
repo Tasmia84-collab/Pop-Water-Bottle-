@@ -1,0 +1,121 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 4 0 R /F2 5 0 R >> >> /Contents 6 0 R >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+6 0 obj
+<< /Length 8396 >>
+stream
+0.027 0.118 0.204 rg 36.00 719.89 523.28 88.00 re f
+0.000 0.898 1.000 rg 36.00 715.89 523.28 4.00 re f
+BT /F2 8.5 Tf 0.000 0.898 1.000 rg 52.00 785.89 Td (OFFICIAL PROJECT DOCUMENTATION  |  README.PDF) Tj ET
+BT /F2 16.5 Tf 1.000 1.000 1.000 rg 52.00 761.89 Td (POP - "Pop Mean" | Custom Branded Water Bottle Supply) Tj ET
+BT /F1 9.5 Tf 0.800 0.930 1.000 rg 52.00 740.89 Td (Standalone 8-Page 3D Interactive Website \(HTML5, CSS3 & Vanilla JS\) - 330ml, 500ml, 1L & 1.5L) Tj ET
+BT /F2 12 Tf 0.027 0.118 0.204 rg 36.00 691.89 Td (1. Brand Identity, Slogan & Core Business Model) Tj ET
+1.20 w 0.000 0.706 0.847 RG 36.00 685.89 m 559.28 685.89 l S
+0.957 0.976 0.988 rg 36.00 595.89 254.00 70.00 re f
+0.80 w 0.780 0.900 0.960 RG 36.00 595.89 254.00 70.00 re S
+BT /F2 9.2 Tf 0.000 0.467 0.714 rg 46.00 652.89 Td (BRAND & SLOGAN IDENTITY) Tj ET
+BT /F1 8.5 Tf 0.150 0.250 0.350 rg 46.00 636.89 Td (* Brand Name: POP \(Strictly POP, never Pop Up\)) Tj ET
+BT /F1 8.5 Tf 0.150 0.250 0.350 rg 46.00 622.89 Td (* Brand Slogan: "Pop Mean" \(Pure Customized Water\)) Tj ET
+BT /F1 8.5 Tf 0.150 0.250 0.350 rg 46.00 608.89 Td (* Offering: Custom Name & Logo Branded Bottles) Tj ET
+0.957 0.976 0.988 rg 305.00 595.89 254.00 70.00 re f
+0.80 w 0.780 0.900 0.960 RG 305.00 595.89 254.00 70.00 re S
+BT /F2 9.2 Tf 0.000 0.467 0.714 rg 315.00 652.89 Td (SIZES & MINIMUM ORDER QUANTITIES \(MOQ\)) Tj ET
+BT /F1 8.5 Tf 0.150 0.250 0.350 rg 315.00 636.89 Td (* Bottle Sizes: 330ml, 500ml, 1 Liter & 1.5 Liter) Tj ET
+BT /F1 8.5 Tf 0.150 0.250 0.350 rg 315.00 622.89 Td (* MOQ Batches: 50 Bottles & 100 Bottles up to 1000+) Tj ET
+BT /F1 8.5 Tf 0.150 0.250 0.350 rg 315.00 608.89 Td (* Special Editions: VIP Glass & pH 8.5+ Alkaline) Tj ET
+BT /F2 12 Tf 0.027 0.118 0.204 rg 36.00 573.89 Td (2. Complete 8-Page Website Architecture & Modules) Tj ET
+1.20 w 0.000 0.706 0.847 RG 36.00 567.89 m 559.28 567.89 l S
+0.027 0.118 0.204 rg 36.00 533.89 523.28 20.00 re f
+BT /F2 8.8 Tf 1.000 1.000 1.000 rg 42.00 540.89 Td (Page File) Tj ET
+BT /F2 8.8 Tf 1.000 1.000 1.000 rg 122.00 540.89 Td (Page Title) Tj ET
+BT /F2 8.8 Tf 1.000 1.000 1.000 rg 242.00 540.89 Td (Key Interactive Features & Sections) Tj ET
+0.968 0.988 1.000 rg 36.00 508.89 523.28 25.00 re f
+0.50 w 0.840 0.910 0.950 RG 36.00 508.89 523.28 25.00 re S
+BT /F2 8.4 Tf 0.000 0.467 0.714 rg 42.00 518.39 Td (index.html) Tj ET
+BT /F2 8.4 Tf 0.030 0.120 0.200 rg 122.00 518.39 Td (Home \(3D Hero Stage\)) Tj ET
+BT /F1 7.8 Tf 0.200 0.300 0.400 rg 242.00 518.39 Td (3D POP Bottle Stage \(330ml/500ml/1L/1.5L switcher\), Quick Finder, Marquee & Workflow.) Tj ET
+1.000 1.000 1.000 rg 36.00 483.89 523.28 25.00 re f
+0.50 w 0.840 0.910 0.950 RG 36.00 483.89 523.28 25.00 re S
+BT /F2 8.4 Tf 0.000 0.467 0.714 rg 42.00 493.39 Td (about.html) Tj ET
+BT /F2 8.4 Tf 0.030 0.120 0.200 rg 122.00 493.39 Td (About POP \(Pop Mean\)) Tj ET
+BT /F1 7.8 Tf 0.200 0.300 0.400 rg 242.00 493.39 Td (Brand story, 'Pop Mean' identity, 50 & 100 bottle MOQ mission, and waterproof labels.) Tj ET
+0.968 0.988 1.000 rg 36.00 458.89 523.28 25.00 re f
+0.50 w 0.840 0.910 0.950 RG 36.00 458.89 523.28 25.00 re S
+BT /F2 8.4 Tf 0.000 0.467 0.714 rg 42.00 468.39 Td (collections.html) Tj ET
+BT /F2 8.4 Tf 0.030 0.120 0.200 rg 122.00 468.39 Td (Bottles & Sizes Catalog) Tj ET
+BT /F1 7.8 Tf 0.200 0.300 0.400 rg 242.00 468.39 Td (Filterable catalog by Category, Size \(330ml, 500ml, 1L, 1.5L\), and MOQ \(50/100 bottles\).) Tj ET
+1.000 1.000 1.000 rg 36.00 433.89 523.28 25.00 re f
+0.50 w 0.840 0.910 0.950 RG 36.00 433.89 523.28 25.00 re S
+BT /F2 8.4 Tf 0.000 0.467 0.714 rg 42.00 443.39 Td (custom.html) Tj ET
+BT /F2 8.4 Tf 0.030 0.120 0.200 rg 122.00 443.39 Td (3D Custom Label Studio) Tj ET
+BT /F1 7.8 Tf 0.200 0.300 0.400 rg 242.00 443.39 Td (Live customizer: type brand/event name, choose size \(330ml-1.5L\), batch \(50-1000\) & cap.) Tj ET
+0.968 0.988 1.000 rg 36.00 408.89 523.28 25.00 re f
+0.50 w 0.840 0.910 0.950 RG 36.00 408.89 523.28 25.00 re S
+BT /F2 8.4 Tf 0.000 0.467 0.714 rg 42.00 418.39 Td (technology.html) Tj ET
+BT /F2 8.4 Tf 0.030 0.120 0.200 rg 122.00 418.39 Td (7-Stage RO Purification) Tj ET
+BT /F1 7.8 Tf 0.200 0.300 0.400 rg 242.00 418.39 Td (7-stage Reverse Osmosis, mineral balance, UV-C & Ozone lock + supplier comparison table.) Tj ET
+1.000 1.000 1.000 rg 36.00 383.89 523.28 25.00 re f
+0.50 w 0.840 0.910 0.950 RG 36.00 383.89 523.28 25.00 re S
+BT /F2 8.4 Tf 0.000 0.467 0.714 rg 42.00 393.39 Td (gallery.html) Tj ET
+BT /F2 8.4 Tf 0.030 0.120 0.200 rg 122.00 393.39 Td (Client Lookbook) Tj ET
+BT /F1 7.8 Tf 0.200 0.300 0.400 rg 242.00 393.39 Td (Filterable showcase of corporate boardroom, wedding gold-foil, and hotel 1L/1.5L bottles.) Tj ET
+0.968 0.988 1.000 rg 36.00 358.89 523.28 25.00 re f
+0.50 w 0.840 0.910 0.950 RG 36.00 358.89 523.28 25.00 re S
+BT /F2 8.4 Tf 0.000 0.467 0.714 rg 42.00 368.39 Td (contact.html) Tj ET
+BT /F2 8.4 Tf 0.030 0.120 0.200 rg 122.00 368.39 Td (Contact & Bulk Desk) Tj ET
+BT /F1 7.8 Tf 0.200 0.300 0.400 rg 242.00 368.39 Td (Direct custom quote form for 50, 100, or 500+ bottle orders, hotline, and FAQ accordion.) Tj ET
+1.000 1.000 1.000 rg 36.00 333.89 523.28 25.00 re f
+0.50 w 0.840 0.910 0.950 RG 36.00 333.89 523.28 25.00 re S
+BT /F2 8.4 Tf 0.000 0.467 0.714 rg 42.00 343.39 Td (cart.html) Tj ET
+BT /F2 8.4 Tf 0.030 0.120 0.200 rg 122.00 343.39 Td (Order Bag & Checkout) Tj ET
+BT /F1 7.8 Tf 0.200 0.300 0.400 rg 242.00 343.39 Td (Persistent localStorage bag with batch calculator, delivery logic & WhatsApp checkout.) Tj ET
+BT /F2 12 Tf 0.027 0.118 0.204 rg 36.00 311.89 Td (3. Featured Custom Bottle Packages & Pricing Summary) Tj ET
+1.20 w 0.000 0.706 0.847 RG 36.00 305.89 m 559.28 305.89 l S
+BT /F1 8.5 Tf 0.150 0.250 0.350 rg 44.00 291.89 Td (* POP 330ml Pocket Event & Airline Hospitality Bottle  |  MOQ: 100 Bottles  |  PKR 35 / bottle \(PKR 3,500 Pack\)) Tj ET
+BT /F1 8.5 Tf 0.150 0.250 0.350 rg 44.00 277.39 Td (* POP 500ml Custom Branded Corporate Bottle  |  MOQ: 100 Bottles  |  PKR 45 / bottle \(PKR 4,500 Pack\)) Tj ET
+BT /F1 8.5 Tf 0.150 0.250 0.350 rg 44.00 262.89 Td (* POP 500ml Bespoke Wedding & Nikkah Gold-Foil Edition  |  MOQ: 50 Bottles  |  PKR 55 / bottle \(PKR 2,750 Pack\)) Tj ET
+BT /F1 8.5 Tf 0.150 0.250 0.350 rg 44.00 248.39 Td (* POP 500ml pH 8.5+ Alkaline & Electrolyte Sport Edition  |  MOQ: 100 Bottles  |  PKR 65 / bottle \(PKR 6,500 Pack\)) Tj ET
+BT /F1 8.5 Tf 0.150 0.250 0.350 rg 44.00 233.89 Td (* POP 1 Liter \(1000ml\) Executive Hydration Bottle  |  MOQ: 50 Bottles  |  PKR 70 / bottle \(PKR 3,500 Pack\)) Tj ET
+BT /F1 8.5 Tf 0.150 0.250 0.350 rg 44.00 219.39 Td (* POP 1 Liter Luxury Reusable Glass Special Edition \(HoReCa\)  |  MOQ: 50 Bottles  |  PKR 160 / bottle \(PKR 8,000 Pack\)) Tj ET
+BT /F1 8.5 Tf 0.150 0.250 0.350 rg 44.00 204.89 Td (* POP 1.5 Liter \(1500ml\) Pure Family & Event Supply  |  MOQ: 50 Bottles  |  PKR 95 / bottle \(PKR 4,750 Pack\)) Tj ET
+BT /F1 8.5 Tf 0.150 0.250 0.350 rg 44.00 190.39 Td (* POP 1.5 Liter Corporate Monthly Pantry Supply Pack  |  MOQ: 100 Bottles  |  PKR 88 / bottle \(PKR 8,800 Pack\)) Tj ET
+BT /F2 12 Tf 0.027 0.118 0.204 rg 36.00 163.89 Td (4. UI/UX Design Standards, 3D Engine & Local Execution) Tj ET
+1.20 w 0.000 0.706 0.847 RG 36.00 157.89 m 559.28 157.89 l S
+BT /F1 8.5 Tf 0.150 0.250 0.350 rg 44.00 143.89 Td (* Pure Standalone Architecture: 100% pure HTML5, modern CSS3 \(assets/css/style.css\), and vanilla JS \(assets/js/main.js\).) Tj ET
+BT /F1 8.5 Tf 0.150 0.250 0.350 rg 44.00 129.39 Td (* Unified Fixed Header: Collapsible topbar with live pulsing status indicator and 3-zone navbar with glassmorphic dropdowns.) Tj ET
+BT /F1 8.5 Tf 0.150 0.250 0.350 rg 44.00 114.89 Td (* True 3D Interactive Depth: 3D perspective card tilt, radial spotlight cursor glow, orbiting 3D rings, and SVG bottle engine.) Tj ET
+BT /F1 8.5 Tf 0.150 0.250 0.350 rg 44.00 100.39 Td (* Strict Card Baseline Alignment & Custom Vector SVGs: Zero cartoon emojis; equal-height cards across every row.) Tj ET
+BT /F1 8.5 Tf 0.150 0.250 0.350 rg 44.00 85.89 Td (* How to Run: Open E:\\Pop Water Website\\index.html directly in Chrome, Edge, or any modern desktop/mobile browser.) Tj ET
+0.80 w 0.800 0.880 0.940 RG 36.00 44.00 m 559.28 44.00 l S
+BT /F2 8.2 Tf 0.380 0.490 0.600 rg 36.00 30.00 Td (POP - "Pop Mean" | Pure Customized Water Bottle Supply \(330ml, 500ml, 1L, 1.5L\)) Tj ET
+BT /F1 8.2 Tf 0.380 0.490 0.600 rg 400.28 30.00 Td (Workspace: E:\\Pop Water Website) Tj ET
+endstream
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000121 00000 n 
+0000000263 00000 n 
+0000000360 00000 n 
+0000000462 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+8910
+%%EOF
